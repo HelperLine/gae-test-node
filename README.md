@@ -9,16 +9,16 @@ https://github.com/HelperLine/gae-test-flask
 
 
 <br/><br/>
-### Basic REact Setup
+### Basic React Setup
 
 Plain `express.js` example from Google: <br/>
 https://github.com/GoogleCloudPlatform/nodejs-docs-samples/tree/master/appengine/building-an-app/build
 
 
 <br/><br/>
-### Custom domain
+### Custom Domain
 
-Official Guide: <br/>
+Official guide: <br/>
 https://cloud.google.com/appengine/docs/standard/nodejs/mapping-custom-domains
 
 Helpful description: <br/>
